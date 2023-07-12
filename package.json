@@ -1,0 +1,19 @@
+{
+  "name": "github-trending",
+  "version": "1.0.0",
+  "description": "Tracking the most popular Github repos, updated daily(Python version)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.4.1"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
