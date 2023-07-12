@@ -1,7 +1,7 @@
 {
   "name": "github-trending",
   "version": "1.0.0",
-  "description": "Tracking the most popular Github repos, updated daily(Python version)",
+  "description": "Tracking the most popular Github repos, updated daily(TS version)",
   "main": "index.js",
   "scripts": {
     "scraper": "tsx scraper.ts"

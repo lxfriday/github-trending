@@ -83,7 +83,7 @@ const job = async () => {
   await scrape("markdown", filename);
   await scrape("swift", filename);
 
-  gitAddCommitPush(strdate, filename);
+  // gitAddCommitPush(strdate, filename);
 };
 
 job();
