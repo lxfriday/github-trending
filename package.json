@@ -4,13 +4,14 @@
   "description": "Tracking the most popular Github repos, updated daily(Python version)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "scraper": "tsx scraper.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^20.4.1"
+    "@types/node": "^20.4.1",
+    "tsx": "^3.12.7"
   },
   "dependencies": {
     "axios": "^1.4.0",
