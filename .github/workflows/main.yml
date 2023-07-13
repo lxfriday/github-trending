@@ -1,0 +1,36 @@
+name: Daily Github-Trending
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+    # - cron: "0 2 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        - name: Set up Node 18
+          uses: actions/setup-node@v2
+          with:
+            node-version: 18
+
+      - name: Install dependencies
+        run: |
+          npm install
+
+      - name: Run Scraper
+        run: |
+          npm run scraper
+
+      # Runs a set of commands using the runners shell
+      - name: push to origin master
+        run: |
+          echo start push
+          git config --global user.name "lxfriday"
+          git config --global user.email "liu3248184446@outlook.com"
+
+          git add -A
+          git commit -m $(date '+%Y-%m-%d')
+          git push
