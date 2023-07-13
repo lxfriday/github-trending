@@ -1,11 +1,14 @@
-import axios from "axios";
+import axios, { toFormData } from "axios";
 import cheerio from "cheerio";
 import fs from "fs";
 import path from "path";
 import { exec } from "child_process";
 
+const readmeSource = fs.readFileSync("README-source.md", "utf-8");
 const year = new Date().getFullYear().toString();
 const folderPath = path.join(__dirname, year);
+
+let todayContent = "";
 
 if (!fs.existsSync(folderPath)) {
   fs.mkdirSync(folderPath);
@@ -36,6 +39,14 @@ const gitAddCommitPush = (date: string, filename: string) => {
 const createMarkdown = (date: string, filename: string) => {
   fs.writeFileSync(path.join(folderPath, filename), `## ${date}\n`);
 };
+const createREADME = (date: string) => {
+  todayContent = `## ${date}\n${todayContent}`;
+  fs.writeFileSync(
+    path.join(__dirname, "README.md"),
+    readmeSource.replace("{{today}}", todayContent)
+  );
+  console.log('createREADME')
+};
 
 const scrape = async (language: string, filename: string) => {
   const isTrending = language === "";
@@ -57,6 +68,7 @@ const scrape = async (language: string, filename: string) => {
     result += `* [${title.trim()}](${url.trim()}):${description.trim()} ⭐${stars}\n`;
   });
   fs.appendFileSync(path.join(folderPath, filename), result);
+  todayContent += result;
   console.log(`finished: ${menu}`);
 };
 
@@ -83,6 +95,7 @@ const job = async () => {
   await scrape("markdown", filename);
   await scrape("swift", filename);
 
+  createREADME(strdate)
   // gitAddCommitPush(strdate, filename);
 };
 
