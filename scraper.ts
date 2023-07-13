@@ -36,16 +36,39 @@ const gitAddCommitPush = (date: string, filename: string) => {
   exec(cmdGitPush);
 };
 
+const getLastWeekDates = () => {
+  const dates = [];
+  for (let i = 0; i < 7; i++) {
+    const date = new Date();
+    date.setDate(date.getDate() - i);
+    const formattedDate = date
+      .toLocaleDateString("zh-CN", {
+        year: "numeric",
+        month: "2-digit",
+        day: "2-digit",
+      })
+      .replace(/\//g, "-");
+    dates.push([formattedDate.split('-')[0], formattedDate]);
+  }
+  return dates;
+};
+
 const createMarkdown = (date: string, filename: string) => {
   fs.writeFileSync(path.join(folderPath, filename), `## ${date}\n`);
 };
 const createREADME = (date: string) => {
-  todayContent = `## ${date}\n${todayContent}`;
+  let lastWeekDates = getLastWeekDates()
+  let lastWeekDatesStr = `## Last 7 Days\n`
+  for (let i = 0; i < lastWeekDates.length; i++) {
+    lastWeekDatesStr += `- [${lastWeekDates[i][1]}](./${lastWeekDates[i][0]}/${lastWeekDates[i][1]})\n`
+  }
+
+  todayContent = `${lastWeekDatesStr}\n## ${date}\n${todayContent}`;
   fs.writeFileSync(
     path.join(__dirname, "README.md"),
     readmeSource.replace("{{today}}", todayContent)
   );
-  console.log('createREADME')
+  console.log("createREADME");
 };
 
 const scrape = async (language: string, filename: string) => {
@@ -95,7 +118,7 @@ const job = async () => {
   await scrape("markdown", filename);
   await scrape("swift", filename);
 
-  createREADME(strdate)
+  createREADME(strdate);
   // gitAddCommitPush(strdate, filename);
 };
 
