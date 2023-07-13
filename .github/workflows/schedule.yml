@@ -3,10 +3,12 @@
 
 name: Daily Github-Trending
 
-on:
-  schedule:
-    - cron: "*/5 * * * *"
-    # - cron: "0 2 * * *"
+# on:
+#   schedule:
+#     - cron: "*/5 * * * *"
+#     # - cron: "0 2 * * *"
+
+on: push
 
 jobs:
   build:
