@@ -12,107 +12,107 @@
 ## 2023-07-13
 
 #### trending
-* [StanGirard/quivr](https://github.com/StanGirard/quivr):🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠 ⭐15,186
-* [danswer-ai/danswer](https://github.com/danswer-ai/danswer):Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc. ⭐1,505
-* [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer): ⭐2,779
-* [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable):Run OpenAI's CLIP model on iPhone to search photos. ⭐1,199
-* [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting):Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering" ⭐503
+* [StanGirard/quivr](https://github.com/StanGirard/quivr):🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠 ⭐15,217
+* [danswer-ai/danswer](https://github.com/danswer-ai/danswer):Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc. ⭐1,518
+* [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer): ⭐2,789
+* [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable):Run OpenAI's CLIP model on iPhone to search photos. ⭐1,207
+* [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting):Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering" ⭐507
 * [ministryofjustice/modernisation-platform](https://github.com/ministryofjustice/modernisation-platform):A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform ⭐534
-* [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra):Graphic notes on Gilbert Strang's "Linear Algebra for Everyone" ⭐6,095
-* [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher):GPT based autonomous agent that does online comprehensive research on any given topic ⭐690
-* [rasbt/scipy2023-deeplearning](https://github.com/rasbt/scipy2023-deeplearning): ⭐354
-* [immich-app/immich](https://github.com/immich-app/immich):Self-hosted photo and video backup solution directly from your mobile phone. ⭐14,764
-* [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx):</> htmx - high power tools for HTML ⭐15,006
-* [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive):Real-time face swap for PC streaming or video calls ⭐15,535
-* [CStanKonrad/long_llama](https://github.com/CStanKonrad/long_llama):LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method. ⭐649
-* [s0md3v/roop](https://github.com/s0md3v/roop):one-click deepfake (face swap) ⭐16,162
+* [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra):Graphic notes on Gilbert Strang's "Linear Algebra for Everyone" ⭐6,118
+* [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher):GPT based autonomous agent that does online comprehensive research on any given topic ⭐698
+* [rasbt/scipy2023-deeplearning](https://github.com/rasbt/scipy2023-deeplearning): ⭐358
+* [immich-app/immich](https://github.com/immich-app/immich):Self-hosted photo and video backup solution directly from your mobile phone. ⭐14,767
+* [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx):</> htmx - high power tools for HTML ⭐15,008
+* [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive):Real-time face swap for PC streaming or video calls ⭐15,538
+* [CStanKonrad/long_llama](https://github.com/CStanKonrad/long_llama):LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method. ⭐650
+* [s0md3v/roop](https://github.com/s0md3v/roop):one-click deepfake (face swap) ⭐16,171
 * [apple/swift-http-types](https://github.com/apple/swift-http-types):Version-independent HTTP currency types for Swift ⭐406
-* [CoretechR/OMOTE](https://github.com/CoretechR/OMOTE):Open Source Remote Using ESP32 and LVGL ⭐309
+* [CoretechR/OMOTE](https://github.com/CoretechR/OMOTE):Open Source Remote Using ESP32 and LVGL ⭐310
 * [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono):A decentralized, Ethereum-equivalent ZK-Rollup. 🥁 ⭐1,184
-* [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger):程序员延寿指南 | A programmer's guide to live longer ⭐25,850
-* [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper):Playground (and dump) of stuff I make or modify for the Flipper Zero ⭐8,261
-* [cypress-io/cypress](https://github.com/cypress-io/cypress):Fast, easy and reliable testing for anything that runs in a browser. ⭐43,906
-* [dotnet/core](https://github.com/dotnet/core):Home repository for .NET Core ⭐19,057
-* [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning):Curated list of project-based tutorials ⭐110,671
-* [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api):Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Supports Read and Write. Web UI Included. ⭐1,171
-* [photoprism/photoprism](https://github.com/photoprism/photoprism):AI-Powered Photos App for the Decentralized Web 🌈💎✨ ⭐27,446
-* [kudoai/chatgpt.js](https://github.com/kudoai/chatgpt.js):🤖 A powerful, open source client-side JavaScript library for ChatGPT ⭐815
+* [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger):程序员延寿指南 | A programmer's guide to live longer ⭐25,856
+* [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper):Playground (and dump) of stuff I make or modify for the Flipper Zero ⭐8,262
+* [cypress-io/cypress](https://github.com/cypress-io/cypress):Fast, easy and reliable testing for anything that runs in a browser. ⭐43,908
+* [dotnet/core](https://github.com/dotnet/core):Home repository for .NET Core ⭐19,058
+* [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning):Curated list of project-based tutorials ⭐110,677
+* [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api):Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Supports Read and Write. Web UI Included. ⭐1,175
+* [photoprism/photoprism](https://github.com/photoprism/photoprism):AI-Powered Photos App for the Decentralized Web 🌈💎✨ ⭐27,458
+* [kudoai/chatgpt.js](https://github.com/kudoai/chatgpt.js):🤖 A powerful, open source client-side JavaScript library for ChatGPT ⭐821
 
 #### typescript
-* [StanGirard/quivr](https://github.com/StanGirard/quivr):🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠 ⭐15,186
-* [immich-app/immich](https://github.com/immich-app/immich):Self-hosted photo and video backup solution directly from your mobile phone. ⭐14,764
-* [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api):Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Supports Read and Write. Web UI Included. ⭐1,171
+* [StanGirard/quivr](https://github.com/StanGirard/quivr):🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠 ⭐15,217
+* [immich-app/immich](https://github.com/immich-app/immich):Self-hosted photo and video backup solution directly from your mobile phone. ⭐14,767
+* [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api):Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Supports Read and Write. Web UI Included. ⭐1,175
 * [usememos/memos](https://github.com/usememos/memos):A lightweight, self-hosted memo hub. Open Source and Free forever. ⭐15,750
-* [TabbyML/tabby](https://github.com/TabbyML/tabby):Self-hosted AI coding assistant ⭐8,482
+* [TabbyML/tabby](https://github.com/TabbyML/tabby):Self-hosted AI coding assistant ⭐8,483
 * [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js):A declarative JavaScript library for application development using cloud services. ⭐9,243
-* [novuhq/novu](https://github.com/novuhq/novu):The open-source notification infrastructure with fully functional embedded notification center ⭐21,672
+* [novuhq/novu](https://github.com/novuhq/novu):The open-source notification infrastructure with fully functional embedded notification center ⭐21,673
 * [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint):✨ Monorepo for all the tooling which enables ESLint to support TypeScript ⭐13,601
 * [supabase/supabase](https://github.com/supabase/supabase):The open source Firebase alternative. Follow to stay updated about our public Beta. ⭐53,127
 * [nwaliaez/eCommerce](https://github.com/nwaliaez/eCommerce): ⭐81
 * [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu):shelf is open source Asset Management Infrastructure for absolutely everyone. ⭐892
 * [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox):Chatbox is a desktop app for GPT/LLM that supports Windows, Mac, Linux & Web Online ⭐13,541
 * [nestjs/nest](https://github.com/nestjs/nest):A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 ⭐58,090
-* [labring/laf](https://github.com/labring/laf):Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity. ⭐5,253
-* [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web):A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。 ⭐36,224
-* [FuelLabs/fuels-ts](https://github.com/FuelLabs/fuels-ts):Fuel v2 TypeScript SDK ⭐1,911
+* [labring/laf](https://github.com/labring/laf):Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity. ⭐5,255
+* [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web):A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。 ⭐36,231
+* [FuelLabs/fuels-ts](https://github.com/FuelLabs/fuels-ts):Fuel v2 TypeScript SDK ⭐1,919
 * [sadmann7/skateshop](https://github.com/sadmann7/skateshop):An open source e-commerce skateshop build with everything new in Next.js 13. ⭐3,467
 * [basarat/typescript-book](https://github.com/basarat/typescript-book):📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹 ⭐19,547
 * [discordjs/discord.js](https://github.com/discordjs/discord.js):A powerful JavaScript library for interacting with the Discord API ⭐23,613
 * [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io):💬 Typebot is a powerful chatbot builder that you can self-host. ⭐2,926
-* [apache/superset](https://github.com/apache/superset):Apache Superset is a Data Visualization and Data Exploration Platform ⭐52,908
-* [shadcn/ui](https://github.com/shadcn/ui):Beautifully designed components built with Radix UI and Tailwind CSS. ⭐24,152
-* [korbinzhao/excalidraw-cn](https://github.com/korbinzhao/excalidraw-cn):Excalidraw-CN 是支持中文手写和多画布的 Excalidraw 白板工具。Excalidraw-CN is a whiteboard supporting Chinese hand draw font and multi-canvas based on Excalidraw. ⭐516
+* [apache/superset](https://github.com/apache/superset):Apache Superset is a Data Visualization and Data Exploration Platform ⭐52,909
+* [shadcn/ui](https://github.com/shadcn/ui):Beautifully designed components built with Radix UI and Tailwind CSS. ⭐24,154
+* [korbinzhao/excalidraw-cn](https://github.com/korbinzhao/excalidraw-cn):Excalidraw-CN 是支持中文手写和多画布的 Excalidraw 白板工具。Excalidraw-CN is a whiteboard supporting Chinese hand draw font and multi-canvas based on Excalidraw. ⭐518
 * [wagmi-dev/viem](https://github.com/wagmi-dev/viem):TypeScript Interface for Ethereum ⭐1,178
 * [grpc/grpc-node](https://github.com/grpc/grpc-node):gRPC for Node.js ⭐4,005
 
 #### python
-* [danswer-ai/danswer](https://github.com/danswer-ai/danswer):Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc. ⭐1,505
-* [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting):Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering" ⭐503
-* [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher):GPT based autonomous agent that does online comprehensive research on any given topic ⭐690
-* [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive):Real-time face swap for PC streaming or video calls ⭐15,535
-* [s0md3v/roop](https://github.com/s0md3v/roop):one-click deepfake (face swap) ⭐16,162
-* [dmytrostriletskyi/threads-net](https://github.com/dmytrostriletskyi/threads-net):Unofficial and reverse-engineered Threads (threads.net) Python API wrapper. Supports read and write capabilities. ⭐320
-* [hwchase17/langchain](https://github.com/hwchase17/langchain):⚡ Building applications with LLMs through composability ⚡ ⭐54,142
-* [Visualize-ML/Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix):Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；上架！ ⭐4,305
+* [danswer-ai/danswer](https://github.com/danswer-ai/danswer):Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc. ⭐1,518
+* [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting):Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering" ⭐507
+* [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher):GPT based autonomous agent that does online comprehensive research on any given topic ⭐698
+* [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive):Real-time face swap for PC streaming or video calls ⭐15,538
+* [s0md3v/roop](https://github.com/s0md3v/roop):one-click deepfake (face swap) ⭐16,171
+* [dmytrostriletskyi/threads-net](https://github.com/dmytrostriletskyi/threads-net):Unofficial and reverse-engineered Threads (threads.net) Python API wrapper. Supports read and write capabilities. ⭐321
+* [hwchase17/langchain](https://github.com/hwchase17/langchain):⚡ Building applications with LLMs through composability ⚡ ⭐54,145
+* [Visualize-ML/Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix):Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；上架！ ⭐4,306
 * [UX-Decoder/Segment-Everything-Everywhere-All-At-Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once):Official implementation of the paper "Segment Everything Everywhere All at Once" ⭐3,032
 * [ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024):👋 Hey there new grad🎉! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀 ⭐1,747
 * [hiyouga/LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning):Easy-to-use fine-tuning framework using PEFT (PT+SFT+RLHF with QLoRA) ⭐1,299
 * [psf/black](https://github.com/psf/black):The uncompromising Python code formatter ⭐32,898
-* [smol-ai/developer](https://github.com/smol-ai/developer):the first library to let you embed a developer agent in your own app! ⭐10,308
-* [deepset-ai/haystack](https://github.com/deepset-ai/haystack):🔍 Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex question answering, semantic search, text generation applications, and more. ⭐9,524
+* [smol-ai/developer](https://github.com/smol-ai/developer):the first library to let you embed a developer agent in your own app! ⭐10,309
+* [deepset-ai/haystack](https://github.com/deepset-ai/haystack):🔍 Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex question answering, semantic search, text generation applications, and more. ⭐9,525
 * [DAMO-NLP-SG/Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA):Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding ⭐1,212
-* [Yujun-Shi/DragDiffusion](https://github.com/Yujun-Shi/DragDiffusion):Official code for DragDiffusion ⭐278
+* [Yujun-Shi/DragDiffusion](https://github.com/Yujun-Shi/DragDiffusion):Official code for DragDiffusion ⭐279
 * [nvbn/thefuck](https://github.com/nvbn/thefuck):Magnificent app which corrects your previous console command. ⭐78,426
 * [baichuan-inc/Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B):A large-scale 7B pretraining language model developed by BaiChuan-Inc. ⭐4,393
-* [pynecone-io/reflex](https://github.com/pynecone-io/reflex):🕸 Web apps in pure Python 🐍 ⭐9,428
+* [pynecone-io/reflex](https://github.com/pynecone-io/reflex):🕸 Web apps in pure Python 🐍 ⭐9,431
 * [reddelexc/hackerone-reports](https://github.com/reddelexc/hackerone-reports):Top disclosed reports from HackerOne ⭐2,350
-* [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR):OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。 ⭐7,150
+* [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR):OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。 ⭐7,152
 * [lifeisboringsoprogramming/sd-webui-xldemo-txt2img](https://github.com/lifeisboringsoprogramming/sd-webui-xldemo-txt2img):Stable Diffusion XL 0.9 Demo webui extension ⭐85
-* [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui):An open source implementation of OpenAI's ChatGPT Code interpreter ⭐2,252
-* [modelscope/modelscope](https://github.com/modelscope/modelscope):ModelScope: bring the notion of Model-as-a-Service to life. ⭐2,746
+* [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui):An open source implementation of OpenAI's ChatGPT Code interpreter ⭐2,256
+* [modelscope/modelscope](https://github.com/modelscope/modelscope):ModelScope: bring the notion of Model-as-a-Service to life. ⭐2,748
 * [hiyouga/FastEdit](https://github.com/hiyouga/FastEdit):🩹Editing large language models within 10 seconds⚡ ⭐290
 
 #### javascript
-* [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx):</> htmx - high power tools for HTML ⭐15,006
-* [cypress-io/cypress](https://github.com/cypress-io/cypress):Fast, easy and reliable testing for anything that runs in a browser. ⭐43,906
-* [kudoai/chatgpt.js](https://github.com/kudoai/chatgpt.js):🤖 A powerful, open source client-side JavaScript library for ChatGPT ⭐815
-* [bytedance/xgplayer](https://github.com/bytedance/xgplayer):A HTML5 video player with a parser that saves traffic ⭐6,577
+* [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx):</> htmx - high power tools for HTML ⭐15,008
+* [cypress-io/cypress](https://github.com/cypress-io/cypress):Fast, easy and reliable testing for anything that runs in a browser. ⭐43,908
+* [kudoai/chatgpt.js](https://github.com/kudoai/chatgpt.js):🤖 A powerful, open source client-side JavaScript library for ChatGPT ⭐821
+* [bytedance/xgplayer](https://github.com/bytedance/xgplayer):A HTML5 video player with a parser that saves traffic ⭐6,580
 * [mozilla/pdf.js](https://github.com/mozilla/pdf.js):PDF Reader in JavaScript ⭐43,110
-* [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript):30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw ⭐37,180
+* [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript):30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw ⭐37,181
 * [prebid/Prebid.js](https://github.com/prebid/Prebid.js):Setup and manage header bidding advertising partners without writing code or confusing line items. Prebid.js is open source and free. ⭐1,182
-* [electerm/electerm](https://github.com/electerm/electerm):📻Terminal/ssh/telnet/serialport/sftp client(linux, mac, win) ⭐8,907
+* [electerm/electerm](https://github.com/electerm/electerm):📻Terminal/ssh/telnet/serialport/sftp client(linux, mac, win) ⭐8,908
 * [facebook/lexical](https://github.com/facebook/lexical):Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance. ⭐14,856
 * [Expensify/App](https://github.com/Expensify/App):Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code. ⭐1,361
 * [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop):Official electron build of draw.io ⭐41,564
 * [lovell/sharp](https://github.com/lovell/sharp):High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library. ⭐25,649
-* [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext):使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.) ⭐3,275
+* [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext):使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.) ⭐3,276
 * [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts):OpenZeppelin Contracts is a library for secure smart contract development. ⭐22,620
 * [Vincenius/workout-lol](https://github.com/Vincenius/workout-lol):A simple way to create a workout plan ⭐569
 * [hexojs/hexo](https://github.com/hexojs/hexo):A fast, simple & powerful blog framework, powered by Node.js. ⭐37,022
 * [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd):Beautiful and accessible drag and drop for lists with React ⭐30,415
 * [sksalahuddin2828/JavaScript](https://github.com/sksalahuddin2828/JavaScript):Explore something new ⭐50
 * [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui):Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vmess & Vless & Trojan & ShadowSocks) ⭐2,187
-* [facebook/react](https://github.com/facebook/react):The library for web and native user interfaces ⭐210,268
+* [facebook/react](https://github.com/facebook/react):The library for web and native user interfaces ⭐210,269
 * [deepch/RTSPtoWeb](https://github.com/deepch/RTSPtoWeb):RTSP Stream to WebBrowser ⭐786
 * [pmndrs/drei](https://github.com/pmndrs/drei):🥉 useful helpers for react-three-fiber ⭐5,757
 * [facebook/create-react-app](https://github.com/facebook/create-react-app):Set up a modern web app by running one command. ⭐100,284
@@ -120,38 +120,38 @@
 * [serverless/serverless](https://github.com/serverless/serverless):⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – ⭐44,939
 
 #### go
-* [photoprism/photoprism](https://github.com/photoprism/photoprism):AI-Powered Photos App for the Decentralized Web 🌈💎✨ ⭐27,446
-* [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt):Giving Kubernetes Superpowers to everyone ⭐2,839
+* [photoprism/photoprism](https://github.com/photoprism/photoprism):AI-Powered Photos App for the Decentralized Web 🌈💎✨ ⭐27,458
+* [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt):Giving Kubernetes Superpowers to everyone ⭐2,840
 * [redis/go-redis](https://github.com/redis/go-redis):Redis Go client ⭐17,542
-* [iDvel/rime-ice](https://github.com/iDvel/rime-ice):Rime 配置：雾凇拼音 | 长期维护的简体词库 ⭐4,417
+* [iDvel/rime-ice](https://github.com/iDvel/rime-ice):Rime 配置：雾凇拼音 | 长期维护的简体词库 ⭐4,418
 * [lima-vm/lima](https://github.com/lima-vm/lima):Linux virtual machines, typically on macOS, for running containerd ⭐12,036
-* [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel):🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。 ⭐7,949
-* [zeromicro/go-zero](https://github.com/zeromicro/go-zero):A cloud-native Go microservices framework with cli tool for productivity. ⭐24,837
+* [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel):🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。 ⭐7,950
+* [zeromicro/go-zero](https://github.com/zeromicro/go-zero):A cloud-native Go microservices framework with cli tool for productivity. ⭐24,839
 * [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest):🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~ ⭐11,323
 * [nektos/act](https://github.com/nektos/act):Run your GitHub Actions locally 🚀 ⭐39,945
 * [google/osv-scanner](https://github.com/google/osv-scanner):Vulnerability scanner written in Go which uses the data provided by https://osv.dev ⭐5,157
-* [rancher/rancher](https://github.com/rancher/rancher):Complete container management platform ⭐21,296
-* [golang/go](https://github.com/golang/go):The Go programming language ⭐112,733
+* [rancher/rancher](https://github.com/rancher/rancher):Complete container management platform ⭐21,297
+* [golang/go](https://github.com/golang/go):The Go programming language ⭐112,734
 * [kubernetes/client-go](https://github.com/kubernetes/client-go):Go client for Kubernetes. ⭐7,812
 * [thanos-io/thanos](https://github.com/thanos-io/thanos):Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. ⭐11,891
-* [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows):A node.js version management utility for Windows. Ironically written in Go. ⭐29,238
+* [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows):A node.js version management utility for Windows. Ironically written in Go. ⭐29,239
 * [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer):CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code ⭐10,466
-* [samber/lo](https://github.com/samber/lo):💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...) ⭐11,995
+* [samber/lo](https://github.com/samber/lo):💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...) ⭐11,996
 * [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec):Security scanner for your Terraform code ⭐6,029
-* [segmentio/kafka-go](https://github.com/segmentio/kafka-go):Kafka library in Go ⭐6,304
-* [golang-migrate/migrate](https://github.com/golang-migrate/migrate):Database migrations. CLI and Golang library. ⭐11,811
+* [segmentio/kafka-go](https://github.com/segmentio/kafka-go):Kafka library in Go ⭐6,305
+* [golang-migrate/migrate](https://github.com/golang-migrate/migrate):Database migrations. CLI and Golang library. ⭐11,813
 * [rs/zerolog](https://github.com/rs/zerolog):Zero Allocation JSON Logger ⭐8,493
-* [syncthing/syncthing](https://github.com/syncthing/syncthing):Open Source Continuous File Synchronization ⭐52,988
-* [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes):Production-Grade Container Scheduling and Management ⭐99,962
-* [wader/fq](https://github.com/wader/fq):jq for binary formats - tool, language and decoders for working with binary and text formats ⭐8,697
-* [avelino/awesome-go](https://github.com/avelino/awesome-go):A curated list of awesome Go frameworks, libraries and software ⭐104,634
+* [syncthing/syncthing](https://github.com/syncthing/syncthing):Open Source Continuous File Synchronization ⭐52,990
+* [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes):Production-Grade Container Scheduling and Management ⭐99,961
+* [wader/fq](https://github.com/wader/fq):jq for binary formats - tool, language and decoders for working with binary and text formats ⭐8,698
+* [avelino/awesome-go](https://github.com/avelino/awesome-go):A curated list of awesome Go frameworks, libraries and software ⭐104,636
 
 #### c++
 * [facebookincubator/velox](https://github.com/facebookincubator/velox):A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems. ⭐2,529
 * [wolfpld/tracy](https://github.com/wolfpld/tracy):Frame profiler ⭐5,972
 * [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot):ArduPlane, ArduCopter, ArduRover, ArduSub source ⭐8,582
-* [catchorg/Catch2](https://github.com/catchorg/Catch2):A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) ⭐16,815
-* [alibaba/higress](https://github.com/alibaba/higress):Next-generation Cloud Native Gateway | 下一代云原生网关 ⭐1,464
+* [catchorg/Catch2](https://github.com/catchorg/Catch2):A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) ⭐16,816
+* [alibaba/higress](https://github.com/alibaba/higress):Next-generation Cloud Native Gateway | 下一代云原生网关 ⭐1,465
 * [Tencent/rapidjson](https://github.com/Tencent/rapidjson):A fast JSON parser/generator for C++ with both SAX/DOM style API ⭐13,181
 * [google/libphonenumber](https://github.com/google/libphonenumber):Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. ⭐15,157
 * [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract):Tesseract Open Source OCR Engine (main repository) ⭐52,099
@@ -164,10 +164,10 @@
 * [cdcseacave/openMVS](https://github.com/cdcseacave/openMVS):open Multi-View Stereo reconstruction library ⭐2,703
 * [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all):gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue ⭐48,883
 * [sksalahuddin2828/C_Plus_Plus](https://github.com/sksalahuddin2828/C_Plus_Plus):Explore something new ⭐55
-* [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass):CUDA Templates for Linear Algebra Subroutines ⭐2,971
+* [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass):CUDA Templates for Linear Algebra Subroutines ⭐2,972
 * [google/leveldb](https://github.com/google/leveldb):LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. ⭐33,056
 * [microsoft/calculator](https://github.com/microsoft/calculator):Windows Calculator: A simple yet powerful calculator that ships with Windows ⭐27,350
-* [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime):ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator ⭐9,810
+* [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime):ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator ⭐9,811
 * [scylladb/scylladb](https://github.com/scylladb/scylladb):NoSQL data store using the seastar framework, compatible with Apache Cassandra ⭐10,587
 * [nlohmann/json](https://github.com/nlohmann/json):JSON for Modern C++ ⭐35,604
 * [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray):Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box) ⭐3,127
@@ -176,21 +176,21 @@
 #### java
 * [DataLinkDC/dinky](https://github.com/DataLinkDC/dinky):Dinky is an out of the box one-stop real-time computing platform dedicated to the construction and practice of Unified Streaming & Batch and Unified Data Lake & Data Warehouse. Based on Apache Flink, Dinky provides the ability to connect many big data frameworks including OLAP and Data Lake. ⭐2,177
 * [apache/jmeter](https://github.com/apache/jmeter):Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services ⭐7,188
-* [apache/iceberg](https://github.com/apache/iceberg):Apache Iceberg ⭐4,469
+* [apache/iceberg](https://github.com/apache/iceberg):Apache Iceberg ⭐4,468
 * [trinodb/trino](https://github.com/trinodb/trino):Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) ⭐8,137
-* [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver):Free universal database tool and SQL client ⭐32,851
+* [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver):Free universal database tool and SQL client ⭐32,855
 * [krahets/hello-algo](https://github.com/krahets/hello-algo):《Hello 算法》：动画图解、一键运行、互动问答的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Dart, Zig 等语言。 ⭐14,254
 * [jiayaoO3O/18-comic-finder](https://github.com/jiayaoO3O/18-comic-finder):禁漫天堂Github Actions下载器🧘 ⭐425
 * [wenbochang888/house](https://github.com/wenbochang888/house):有完整版的PDF下载。 ⭐2,807
 * [apache/hbase](https://github.com/apache/hbase):Apache HBase ⭐4,911
 * [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator):OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) ⭐16,980
-* [eugenp/tutorials](https://github.com/eugenp/tutorials):Just Announced - "Learn Spring Security OAuth": ⭐34,521
+* [eugenp/tutorials](https://github.com/eugenp/tutorials):Just Announced - "Learn Spring Security OAuth": ⭐34,522
 * [sksalahuddin2828/Java](https://github.com/sksalahuddin2828/Java):Explore something new ⭐50
 * [fuzhengwei/small-spring](https://github.com/fuzhengwei/small-spring):🌱《 Spring 手撸专栏》，本专栏以 Spring 源码学习为目的，通过手写简化版 Spring 框架，了解 Spring 核心原理。在手写的过程中会简化 Spring 源码，摘取整体框架中的核心逻辑，简化代码实现过程，保留核心功能，例如：IOC、AOP、Bean生命周期、上下文、作用域、资源处理等内容实现。 ⭐4,049
-* [openjdk/jdk](https://github.com/openjdk/jdk):JDK main-line development https://openjdk.org/projects/jdk ⭐16,318
+* [openjdk/jdk](https://github.com/openjdk/jdk):JDK main-line development https://openjdk.org/projects/jdk ⭐16,320
 * [apache/cassandra](https://github.com/apache/cassandra):Mirror of Apache Cassandra ⭐8,091
 * [termux/termux-app](https://github.com/termux/termux-app):Termux - a terminal emulator application for Android OS extendible by variety of packages. ⭐22,921
-* [brettwooldridge/HikariCP](https://github.com/brettwooldridge/HikariCP):光 HikariCP・A solid, high-performance, JDBC connection pool at last. ⭐18,423
+* [brettwooldridge/HikariCP](https://github.com/brettwooldridge/HikariCP):光 HikariCP・A solid, high-performance, JDBC connection pool at last. ⭐18,424
 * [aws/aws-sdk-java-v2](https://github.com/aws/aws-sdk-java-v2):The official AWS SDK for Java - Version 2 ⭐1,810
 * [tronprotocol/java-tron](https://github.com/tronprotocol/java-tron):Java implementation of the Tron whitepaper ⭐3,399
 * [quarkusio/quarkus](https://github.com/quarkusio/quarkus):Quarkus: Supersonic Subatomic Java. ⭐11,961
@@ -198,13 +198,13 @@
 * [in28minutes/master-spring-and-spring-boot](https://github.com/in28minutes/master-spring-and-spring-boot):Spring and Spring Boot Tutorial For Absolute Beginners - 10-in-1 - Spring to Spring Boot to REST API to Full Stack to Containers to Cloud ⭐480
 * [alibaba/nacos](https://github.com/alibaba/nacos):an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications. ⭐26,943
 * [material-components/material-components-android](https://github.com/material-components/material-components-android):Modular and customizable Material Design UI components for Android ⭐15,195
-* [elastic/elasticsearch](https://github.com/elastic/elasticsearch):Free and Open, Distributed, RESTful Search Engine ⭐64,401
+* [elastic/elasticsearch](https://github.com/elastic/elasticsearch):Free and Open, Distributed, RESTful Search Engine ⭐64,400
 
 #### html
 * [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono):A decentralized, Ethereum-equivalent ZK-Rollup. 🥁 ⭐1,184
 * [mdn/learning-area](https://github.com/mdn/learning-area):Github repo for the MDN Learning Area. ⭐6,115
 * [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts):This repo includes ChatGPT prompt curation to use ChatGPT better. ⭐83,463
-* [ethen8181/machine-learning](https://github.com/ethen8181/machine-learning):🌎 machine learning tutorials (mainly in Python3) ⭐2,517
+* [ethen8181/machine-learning](https://github.com/ethen8181/machine-learning):🌎 machine learning tutorials (mainly in Python3) ⭐2,518
 * [TheOdinProject/css-exercises](https://github.com/TheOdinProject/css-exercises): ⭐1,088
 * [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material):Documentation that simply works ⭐14,463
 * [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core):An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models ⭐3,811
@@ -218,8 +218,8 @@
 * [brave/brave-core](https://github.com/brave/brave-core):Core engine for the Brave browser for Android, Linux, macOS, Windows. For issues https://github.com/brave/brave-browser/issues ⭐2,097
 * [haiibo/OpenWrt](https://github.com/haiibo/OpenWrt):基于 Lean 源码编译的 OpenWrt 固件——适配X86、R2C、R2S、R4S、R4SE、R5C、R5S、香橙派 R1 Plus、树莓派3B/B+、树莓派4B、R66S、R68S、M68S、H66K、H68K、H69K、E25、N1、S905x3、S922x、HK1、X96max、微加云、贝壳云、我家云、章鱼星球等 ⭐709
 * [vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph):3D force-directed graph component using ThreeJS/WebGL ⭐3,688
-* [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning):计算机自学指南 ⭐31,207
-* [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes):吴恩达老师的机器学习课程个人笔记 ⭐28,169
+* [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning):计算机自学指南 ⭐31,209
+* [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes):吴恩达老师的机器学习课程个人笔记 ⭐28,170
 * [loveBabbar/CodehelpYTWebDev](https://github.com/loveBabbar/CodehelpYTWebDev):Welcome to our concise web development course on the MERN stack! Learn how to build modern web applications using MongoDB, Express.js, React, and Node.js. From setup to deployment, master front-end and back-end development, APIs, and more. Join us and unlock the power of the MERN stack! Link: https://bit.ly/3NVveYl ⭐21
 * [rdkit/rdkit](https://github.com/rdkit/rdkit):The official sources for the RDKit library ⭐2,102
 * [athul/archie](https://github.com/athul/archie):A minimal Hugo Theme ⭐709
@@ -253,7 +253,7 @@
 * [satoshilabs/slips](https://github.com/satoshilabs/slips):SatoshiLabs Improvement Proposals ⭐1,362
 
 #### swift
-* [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable):Run OpenAI's CLIP model on iPhone to search photos. ⭐1,199
+* [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable):Run OpenAI's CLIP model on iPhone to search photos. ⭐1,208
 * [apple/swift-http-types](https://github.com/apple/swift-http-types):Version-independent HTTP currency types for Swift ⭐406
 * [iina/iina](https://github.com/iina/iina):The modern video player for macOS. ⭐33,889
 * [apple/swift-nio](https://github.com/apple/swift-nio):Event-driven network application framework for high performance protocol servers & clients, non-blocking. ⭐7,444
