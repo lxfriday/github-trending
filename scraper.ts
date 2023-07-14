@@ -60,7 +60,7 @@ const createREADME = (date: string) => {
   let lastWeekDates = getLastWeekDates()
   let lastWeekDatesStr = `## Last 7 Days\n`
   for (let i = 0; i < lastWeekDates.length; i++) {
-    lastWeekDatesStr += `- [${lastWeekDates[i][1]}](./${lastWeekDates[i][0]}/${lastWeekDates[i][1]})\n`
+    lastWeekDatesStr += `- [${lastWeekDates[i][1]}](./${lastWeekDates[i][0]}/${lastWeekDates[i][1]}.md)\n`
   }
 
   todayContent = `${lastWeekDatesStr}\n## ${date}\n${todayContent}`;
